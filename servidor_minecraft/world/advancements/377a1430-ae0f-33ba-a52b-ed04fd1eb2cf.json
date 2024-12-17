@@ -1612,7 +1612,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-16 00:41:01 +0000",
-      "cooked_beef": "2024-12-16 00:32:36 +0000"
+      "cooked_beef": "2024-12-16 00:32:36 +0000",
+      "bread": "2024-12-17 21:11:13 +0000"
     },
     "done": false
   },
@@ -2422,6 +2423,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-17 21:25:25 +0000",
       "minecraft:skeleton": "2024-12-16 00:45:10 +0000",
       "minecraft:spider": "2024-12-16 00:40:01 +0000",
       "minecraft:creeper": "2024-12-17 18:01:00 +0000",
@@ -4506,9 +4508,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2024-12-17 21:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-17 21:25:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-17 20:51:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-17 20:27:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs": {
+    "criteria": {
+      "has_cut_calcite": "2024-12-17 20:42:22 +0000"
     },
     "done": true
   },
@@ -4518,9 +4544,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_wall": {
+    "criteria": {
+      "has_cut_calcite": "2024-12-17 20:42:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-17 20:22:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-17 21:11:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 21:45:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab": {
+    "criteria": {
+      "has_cut_calcite": "2024-12-17 20:42:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 21:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-17 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-17 21:10:31 +0000"
     },
     "done": true
   },
