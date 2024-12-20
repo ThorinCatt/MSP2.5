@@ -329,3 +329,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 15:30:51.664] [Server thread/INFO] [Jade/]: Syncing config to alonso991 (377a1430-ae0f-33ba-a52b-ed04fd1eb2cf)
 [20Dec2024 15:30:53.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
 [20Dec2024 16:24:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [Not Today, Thank You]
+[20Dec2024 16:24:54.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/8982, l='ServerLevel[world]', x=-236.30, y=68.00, z=-111.78] died: Honeyed Archer was slain by alonso991
+[20Dec2024 16:31:22.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elmigaja2[/100.111.254.16:53456] logged in with entity id 10973 at (-17.201438543096064, 67.0, -60.607536900743426)
+[20Dec2024 16:31:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 joined the game
+[20Dec2024 16:31:23.109] [Server thread/INFO] [Jade/]: Syncing config to elmigaja2 (c95228d3-04f6-3b72-8ca7-19eb488be2c3)
+[20Dec2024 16:37:17.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [It Belongs in a Museum]
+[20Dec2024 16:40:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Take Aim]
