@@ -12645,3 +12645,76 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 17:11:58.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Dec2024 17:11:58.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 17:12:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Ice Bucket Challenge]
+[20Dec2024 17:15:37.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elmigaja2: Teleported elmigaja2 to alonso991]
+[20Dec2024 17:16:58.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:16:58.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:17:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [The Secrets of Enchanting]
+[20Dec2024 17:21:58.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:21:58.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:23:44.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Double Trouble]
+[20Dec2024 17:26:58.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:26:58.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:26:59.569] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-7, y=70, z=-74}
+[20Dec2024 17:27:15.893] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-6, y=70, z=-74}
+[20Dec2024 17:31:38.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [I Found It Underground]
+[20Dec2024 17:31:58.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:31:58.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:35:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has reached the goal [Bone Crusher]
+[20Dec2024 17:36:15.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Madam Minnie the Sneaky'/23669, l='ServerLevel[world]', x=102.61, y=63.00, z=-34.85] died: Madam Minnie the Sneaky was slain by elmigaja2
+[20Dec2024 17:36:58.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:36:58.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:39:42.592] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-6, y=69, z=-74}
+[20Dec2024 17:39:46.495] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-6, y=69, z=-74}
+[20Dec2024 17:39:58.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Knowledge raises the soul]
+[20Dec2024 17:41:58.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:41:58.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:46:58.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:46:58.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:51:58.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:51:58.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:56:58.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 17:56:58.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 17:58:19.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Local Librarian]
+[20Dec2024 18:01:58.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 18:01:58.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 18:04:42.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alonso991 lost connection: Disconnected
+[20Dec2024 18:04:42.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 left the game
+[20Dec2024 18:04:52.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elmigaja2 lost connection: Disconnected
+[20Dec2024 18:04:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 left the game
+[20Dec2024 18:05:06.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Dec2024 18:05:06.686] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[20Dec2024 18:05:06.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 18:05:06.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 18:05:06.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 18:05:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 18:05:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 18:05:07.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 18:05:07.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20Dec2024 18:05:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Dec2024 18:05:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[20Dec2024 18:05:07.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 18:05:07.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 18:05:07.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 18:05:07.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 18:05:07.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 18:05:07.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20Dec2024 18:05:07.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Dec2024 18:05:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[20Dec2024 18:05:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Dec2024 18:05:07.249] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[20Dec2024 18:05:07.249] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[20Dec2024 18:05:07.269] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[20Dec2024 18:05:07.269] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for deeperdarker:otherside
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for deeperdarker:otherside
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for twilightforest:twilight_forest_type
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for twilightforest:twilight_forest_type
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for aether:the_aether
+[20Dec2024 18:05:07.274] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for aether:the_aether
+[20Dec2024 18:05:07.277] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Dec2024 18:05:07.278] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[20Dec2024 18:05:07.281] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[20Dec2024 18:05:07.281] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[20Dec2024 18:05:07.299] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
