@@ -335,3 +335,32 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20Dec2024 16:31:23.109] [Server thread/INFO] [Jade/]: Syncing config to elmigaja2 (c95228d3-04f6-3b72-8ca7-19eb488be2c3)
 [20Dec2024 16:37:17.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [It Belongs in a Museum]
 [20Dec2024 16:40:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Take Aim]
+[20Dec2024 16:54:47.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[20Dec2024 16:55:14.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11506ms or 230 ticks behind
+[20Dec2024 16:55:31.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[20Dec2024 16:55:51.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[20Dec2024 16:56:10.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3932ms or 78 ticks behind
+[20Dec2024 16:56:30.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Dec2024 16:56:49.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
+[20Dec2024 16:56:53.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alonso991 moved too quickly! 10.040225901783856,0.4959870982234804,2.106496748571999
+[20Dec2024 16:57:08.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4600ms or 92 ticks behind
+[20Dec2024 16:57:35.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[20Dec2024 17:01:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has reached the goal [Strong or Careful]
+[20Dec2024 17:01:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 withered away
+[20Dec2024 17:01:18.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [Your First Grave]
+[20Dec2024 17:01:18.110] [Server thread/INFO] [tombstone/]: The player alonso991 has successfully been saved
+[20Dec2024 17:01:20.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [The Most Useful Key]
+[20Dec2024 17:01:25.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has reached the goal [A Fast Comeback]
+[20Dec2024 17:01:32.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has reached the goal [Here They Come]
+[20Dec2024 17:02:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [A Throwaway Joke]
+[20Dec2024 17:03:28.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has reached the goal [Horror Under the Mantle]
+[20Dec2024 17:03:29.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Dark Metallurgy]
+[20Dec2024 17:03:29.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Piece of Chaos]
+[20Dec2024 17:04:24.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has reached the goal [Dark Creator]
+[20Dec2024 17:04:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [Dark Metallurgy]
+[20Dec2024 17:05:32.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [Far From Perfect]
+[20Dec2024 17:05:38.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [Piece of Chaos]
+[20Dec2024 17:07:32.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [A Throwaway Joke]
+[20Dec2024 17:08:25.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alonso991: Teleported elmigaja2 to alonso991]
+[20Dec2024 17:10:46.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 has made the advancement [The Parrots and the Bats]
+[20Dec2024 17:12:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elmigaja2 has made the advancement [Ice Bucket Challenge]

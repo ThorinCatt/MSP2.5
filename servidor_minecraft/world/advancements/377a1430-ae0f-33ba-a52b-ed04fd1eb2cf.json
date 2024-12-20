@@ -1565,7 +1565,8 @@
       "minecraft:dripstone_caves": "2024-12-17 19:52:55 +0000",
       "minecraft:forest": "2024-12-16 00:25:53 +0000",
       "minecraft:ocean": "2024-12-17 23:04:48 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-17 23:29:48 +0000"
+      "minecraft:old_growth_spruce_taiga": "2024-12-17 23:29:48 +0000",
+      "minecraft:savanna": "2024-12-20 16:55:59 +0000"
     },
     "done": false
   },
@@ -2432,7 +2433,8 @@
       "minecraft:spider": "2024-12-16 00:40:01 +0000",
       "minecraft:creeper": "2024-12-17 18:01:00 +0000",
       "minecraft:enderman": "2024-12-17 18:34:16 +0000",
-      "minecraft:zombie": "2024-12-16 00:40:22 +0000"
+      "minecraft:zombie": "2024-12-16 00:40:22 +0000",
+      "minecraft:zombie_villager": "2024-12-20 17:01:07 +0000"
     },
     "done": false
   },
@@ -5730,11 +5732,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 17:04:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-20 17:05:16 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
     "criteria": {
@@ -5751,6 +5765,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_toilet": {
     "criteria": {
       "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 17:01:20 +0000"
     },
     "done": true
   },
@@ -5808,6 +5828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 16:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-20 16:22:04 +0000"
@@ -5826,15 +5852,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-20 17:04:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 17:01:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-20 17:02:48 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-20 16:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-20 17:10:46 +0000"
     },
     "done": true
   },
@@ -5874,6 +5924,20 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 17:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-12-20 17:11:16 +0000",
+      "minecraft:sheep": "2024-12-20 17:10:58 +0000",
+      "minecraft:cow": "2024-12-20 17:10:46 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 16:22:20 +0000"
@@ -5910,9 +5974,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-20 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-20 17:05:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
     "criteria": {
       "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 17:04:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 17:01:25 +0000"
     },
     "done": true
   },
@@ -5922,9 +6010,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-20 17:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 17:01:18 +0000"
     },
     "done": true
   },
@@ -6030,6 +6130,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-20 17:03:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 16:22:04 +0000"
@@ -6126,6 +6232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 16:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-20 16:16:21 +0000"
@@ -6141,6 +6253,24 @@
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-12-20 17:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 17:01:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-20 16:55:18 +0000"
     },
     "done": true
   },
@@ -6192,6 +6322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 17:01:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/orange_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 16:22:08 +0000"
@@ -6219,6 +6355,12 @@
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 17:04:59 +0000"
     },
     "done": true
   },
@@ -6258,6 +6400,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-20 17:01:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/orange_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 16:22:08 +0000"
@@ -6273,6 +6421,12 @@
   "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 17:04:59 +0000"
     },
     "done": true
   },
