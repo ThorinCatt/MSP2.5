@@ -5732,309 +5732,33 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2024-12-20 17:04:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_0": "2024-12-20 17:05:16 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-20 16:24:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_toilet": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
-    "criteria": {
-      "has_light_range_hood": "2024-12-20 17:26:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2024-12-20 17:01:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_toilet": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_shovel": "2024-12-20 15:59:21 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+  "aether:recipes/tools/golden_shovel_repairing": {
     "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
+      "has_golden_shovel": "2024-12-20 15:59:21 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/dark_toaster": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_toaster": "2024-12-20 17:27:32 +0000"
+      "has_golden_shovel": "2024-12-20 15:59:21 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
+      "has_reeds": "2024-12-20 16:16:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
-    "criteria": {
-      "has_light_stove": "2024-12-20 17:19:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_microwave": {
-    "criteria": {
-      "has_microwave": "2024-12-20 17:25:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2024-12-20 16:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
-    "criteria": {
-      "has_light_toaster": "2024-12-20 17:27:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2024-12-20 17:04:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 17:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2024-12-20 17:02:48 +0000"
+      "has_sugar_cane": "2024-12-20 16:16:21 +0000"
     },
     "done": true
   },
@@ -6044,147 +5768,39 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
+      "has_dandelion": "2024-12-20 16:22:01 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
     "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
+      "has_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+  "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
-      "bred": "2024-12-20 17:10:46 +0000"
+      "has_needed_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+  "refurbished_furniture:recipes/misc/constructing/yellow_toilet": {
     "criteria": {
-      "has_azure_bluet": "2024-12-20 16:24:45 +0000"
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+  "refurbished_furniture:recipes/decorations/yellow_trampoline_from_dyeing": {
     "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-20 17:33:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+      "has_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
@@ -6194,27 +5810,495 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
+    "criteria": {
+      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_orange_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-20 16:22:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
     "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
     "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
     "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
+    "criteria": {
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
+    "criteria": {
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
+    "criteria": {
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_toilet": {
+    "criteria": {
+      "has_orange_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_toilet": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_bath": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_basin": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+    "criteria": {
+      "has_red_dye": "2024-12-20 16:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-20 16:24:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-20 16:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-20 16:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-20 16:34:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-20 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-20 16:48:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-20 16:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-20 16:49:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-20 16:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 16:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 16:57:09 +0000"
     },
     "done": true
   },
@@ -6224,9 +6308,123 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_dye": "2024-12-20 17:23:01 +0000"
+      "coded_trigger": "2024-12-20 17:01:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 17:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 17:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 17:01:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-20 17:02:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2024-12-20 17:03:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-20 17:04:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-20 17:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 17:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 17:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 17:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 17:04:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2024-12-20 17:05:16 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-20 17:05:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-12-20 17:05:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-20 17:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-20 17:10:46 +0000"
     },
     "done": true
   },
@@ -6244,27 +6442,141 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/red_grill_from_dyeing": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
+      "has_salmon": "2024-12-20 17:13:25 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
+      "has_salmon": "2024-12-20 17:13:25 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
     "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+      "has_light_stove": "2024-12-20 17:19:18 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_stool_from_dyeing": {
+  "refurbished_furniture:recipes/decorations/dark_stove": {
     "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
+      "has_stove": "2024-12-20 17:19:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_fridge": "2024-12-20 17:21:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_light_fridge": "2024-12-20 17:21:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_toilet": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-20 17:23:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:23:01 +0000"
     },
     "done": true
   },
@@ -6274,51 +6586,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-20 17:51:30 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/white_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2024-12-20 18:04:06 +0000"
     },
     "done": true
   },
@@ -6334,99 +6610,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2024-12-20 17:56:52 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_toilet": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_helmet_repairing": {
-    "criteria": {
-      "has_iron_helmet": "2024-12-20 17:07:55 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_bath": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2024-12-20 17:05:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-20 17:04:59 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 17:23:01 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 17:01:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-20 16:37:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2024-12-20 17:04:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_rose_red": "2024-12-20 16:22:20 +0000"
     },
     "done": true
   },
@@ -6442,39 +6634,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 17:01:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
     },
     "done": true
   },
@@ -6484,99 +6646,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
-    "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_bath": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
-    "criteria": {
-      "has_light_microwave": "2024-12-20 17:25:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2024-12-20 18:04:06 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_shovel_repairing": {
-    "criteria": {
-      "has_golden_shovel": "2024-12-20 15:59:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-20 16:37:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_shovel": "2024-12-20 15:59:21 +0000"
     },
     "done": true
   },
@@ -6586,189 +6658,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_cabinetry": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_range_hood": {
-    "criteria": {
-      "has_range_hood": "2024-12-20 17:26:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_sink": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-20 17:13:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_fridge": {
-    "criteria": {
-      "has_fridge": "2024-12-20 17:21:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-12-20 16:34:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2024-12-20 17:03:28 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2024-12-20 16:37:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2024-12-20 16:37:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_bath": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_cabinetry": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
-    "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_basin": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-20 16:22:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
-    "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_basin": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
@@ -6778,75 +6670,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_toilet": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-20 16:49:38 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_bath": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2024-12-20 17:31:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2024-12-20 16:57:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-12-20 16:16:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
     },
     "done": true
   },
@@ -6856,63 +6682,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2024-12-20 16:37:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:pieceof_chaos": {
-    "criteria": {
-      "pieceof_chaos_0": "2024-12-20 17:05:38 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-20 17:01:27 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
-    "criteria": {
-      "has_chainmail_chestplate": "2024-12-20 16:55:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2024-12-20 16:37:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
     },
     "done": true
   },
@@ -6922,51 +6694,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/dark_stove": {
-    "criteria": {
-      "has_stove": "2024-12-20 17:19:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-12-20 18:04:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-20 16:24:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_basin": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
-    "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-20 17:13:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
     },
     "done": true
   },
@@ -6976,87 +6706,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2024-12-20 16:48:37 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-20 16:16:21 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
-    "criteria": {
-      "has_light_fridge": "2024-12-20 17:21:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
-    "criteria": {
-      "has_yellow_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-20 17:01:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_toilet": {
-    "criteria": {
-      "has_orange_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
-    "criteria": {
-      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
     },
     "done": true
   },
@@ -7066,33 +6718,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/orange_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
-    "criteria": {
-      "has_log": "2024-12-20 17:04:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/red_basin": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
     },
     "done": true
   },
@@ -7108,39 +6736,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-20 16:37:01 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:20 +0000"
     },
     "done": true
   },
@@ -7150,33 +6748,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2024-12-20 17:33:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_toilet": {
-    "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-20 17:23:01 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/stonecutting/riveted_locometal": {
-    "criteria": {
-      "has_item": "2024-12-20 17:51:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-12-20 16:22:04 +0000"
     },
     "done": true
   },
@@ -7192,9 +6766,69 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_cabinetry": {
     "criteria": {
-      "has_upgraded_grave_key": "2024-12-20 17:01:20 +0000"
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_cabinetry": {
+    "criteria": {
+      "has_wooden_kitchen_cabinetry": "2024-12-20 17:23:11 +0000"
     },
     "done": true
   },
@@ -7204,51 +6838,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_drawer": {
     "criteria": {
-      "has_iron_block": "2024-12-20 17:51:30 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/orange_kitchen_storage_cabinet_from_dyeing": {
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
     "criteria": {
-      "has_dye": "2024-12-20 16:22:08 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_candle": {
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
     "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "refurbished_furniture:recipes/misc/constructing/green_kitchen_drawer": {
     "criteria": {
-      "has_item": "2024-12-20 16:48:37 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+  "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
     "criteria": {
-      "has_black_dye": "2024-12-20 17:33:50 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
     "criteria": {
-      "has_dye": "2024-12-20 16:22:04 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
-      "has_needed_dye": "2024-12-20 17:33:50 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
     "criteria": {
-      "has_log": "2024-12-20 17:04:59 +0000"
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_wooden_kitchen_drawers": "2024-12-20 17:25:08 +0000"
     },
     "done": true
   },
@@ -7258,9 +6910,357 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/red_kitchen_drawer": {
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
     "criteria": {
-      "has_red_dye": "2024-12-20 16:22:20 +0000"
+      "has_microwave": "2024-12-20 17:25:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_light_microwave": "2024-12-20 17:25:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_range_hood": "2024-12-20 17:26:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_light_range_hood": "2024-12-20 17:26:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_toaster": "2024-12-20 17:27:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_light_toaster": "2024-12-20 17:27:32 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-12-20 17:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-20 17:33:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-20 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 17:51:30 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-20 17:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 17:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-20 17:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-20 18:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-20 18:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-20 18:04:06 +0000"
     },
     "done": true
   },
