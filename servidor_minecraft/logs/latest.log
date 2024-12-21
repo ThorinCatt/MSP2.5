@@ -338,3 +338,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Dec2024 18:09:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alonso991 was slain by Cave Centipede
 [21Dec2024 18:09:02.347] [Server thread/INFO] [tombstone/]: The player alonso991 has successfully been saved
 [21Dec2024 18:16:04.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Dec2024 18:22:47.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/16909, l='ServerLevel[world]', x=-239.82, y=64.41, z=-14.69] died: Undead Knight was slain by Dread Hound
